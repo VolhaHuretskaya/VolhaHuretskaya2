@@ -1,6 +1,5 @@
-[![Header](https://github.com/artichokeee/artichokeee/blob/main/assets/Frame%20635%20(3).png)](https://artsiomrusau.com/)
-## I'm a QA Engineer and Tutor. 
-## A creator of "Artsiom Rusau QA Life" Youtube channel 
+
+## I'm a junior QA Engineer 
 ## My CV
 [Link to my CV](https://drive.google.com/file/d/1_PiQMjDyb_d2-xG_EMyiL7m0NMOnR1Bg/view?usp=sharing)
 
